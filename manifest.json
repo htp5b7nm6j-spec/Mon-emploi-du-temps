@@ -1,0 +1,12 @@
+{
+  "name": "Mon emploi du temps 2026-2027",
+  "short_name": "Mon planning",
+  "description": "Mon emploi du temps personnel — FAC, sport, révisions, prof et notes.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#080d19",
+  "theme_color": "#080d19",
+  "orientation": "portrait-primary",
+  "lang": "fr"
+}
